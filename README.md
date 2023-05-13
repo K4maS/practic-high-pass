@@ -1,3 +1,8 @@
-# practic-high-pass
+### Верстка сайта HighPass
+- Сайт адаптивен
+- Имеет анимации CSS
+- Имеет яндекс краты
+- Имеет валидацию полей
+- При верстки использовался grid
 
-link https://k4mas.github.io/practic-high-pass/#
+Ссылка для просмотра https://k4mas.github.io/practic-high-pass/#
